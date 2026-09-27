@@ -15,6 +15,14 @@
 
 プログラム: [M-STAR-STUDIO/arknights-shibari-gacha](https://github.com/M-STAR-STUDIO/arknights-shibari-gacha)
 
-お問い合わせ: X [@MStarStudio96](https://x.com/MStarStudio96)
+## ForceField2D(制作中)
 
-<sub>本サイトは個人が制作した非公式のファンコンテンツです。Hypergryph、Yostar 各社とは関係ありません。『アークナイツ』およびオペレーターの名称・画像等に関する権利は ©Hypergryph / Yostar に帰属します。</sub>
+引力と斥力の「力場」を撃ち出し、その力で加速したり向きを変えたりして進む2Dアクションゲームです。Unity で試作を進めています。公開はまだ先です。
+
+## お問い合わせ
+
+X [@MStarStudio96](https://x.com/MStarStudio96)
+
+---
+
+<sub>アークナイツ縛りガチャは個人が制作した非公式のファンコンテンツです。Hypergryph、Yostar 各社とは関係ありません。『アークナイツ』およびオペレーターの名称・画像等に関する権利は ©Hypergryph / Yostar に帰属します。</sub>
